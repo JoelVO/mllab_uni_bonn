@@ -1,0 +1,8 @@
+tensorflow>=2.0
+jupyter
+numpy
+scipy
+scikit-learn
+matplotlib
+pandas
+urllib3
