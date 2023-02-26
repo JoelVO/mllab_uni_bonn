@@ -79,9 +79,11 @@ In order to do so, we checked how reinforcement learning may interact with neura
 As part of the final grade, we got a needed to do a final project so I did a translator from US sign language to english. To do so, I used YOLOv5 which I fine-tuned to recognize and classify the hands' postures using HaGRID data set [1]. I found a bias in this dataset which made the validation a bit tricky, but eventually I managed to get it working including the cases in which different types of noise are added to the video. 
 
 <p align="center">
-  <img width="300" height="400" src="https://github.com/JoelVO/mllab_uni_bonn/blob/master/pictures/final_project_result.mp4">
+  <img width="700" height="500" src="https://github.com/JoelVO/mllab_uni_bonn/blob/master/pictures/final_project.png">
   <p align="center"> Result for sign language translator</p>
 </p>
+
+
 
 You can find the whole test video in the "Pictures" folder.
 
