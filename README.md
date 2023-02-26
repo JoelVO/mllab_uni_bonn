@@ -83,6 +83,7 @@ As part of the final grade, we got a needed to do a final project so I did a tra
   <p align="center"> Result for sign language translator</p>
 </p>
 
+You can find the whole test video in the "Pictures" folder.
 
 ## References
 
